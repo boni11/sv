@@ -48,8 +48,28 @@ body {
 	vertical-align: middle;
 }
 
+#cennik{
+	text-align:center;
+}
 
+#table_cennik{
+	text-align:center;
+}
 
+#table_cennik td{
+	width:250px;
+	height:25px;
+}
+
+.cenaColl{
+	width: 10px !important; /* Overwrite any previous rules */
+}
+
+.blank_row
+{
+    height: 10px !important; /* Overwrite any previous rules */
+    background-color: gray;
+}
 
 a, a:link, a:visited{ text-decoration: none; color: black;}
 a:hover{ color:#700404; text-decoration:none; }
