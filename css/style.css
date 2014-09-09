@@ -85,3 +85,17 @@ a:focus { -moz-outline: none -moz-mac-focusring; }
 
 
 
+.table_picture td {
+	text-align: center;	
+	padding: 10px;
+}
+
+#foto_all a img{
+	border: 1px solid #000000;
+	//margin: .8em .6em .6em .6em;
+	//margin-left: 30px;
+	//width: 175px;
+	//height: 125px;	
+	//vertical-align: top;
+	
+}
