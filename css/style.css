@@ -141,3 +141,10 @@ a:focus { -moz-outline: none -moz-mac-focusring; }
 	//vertical-align: top;
 	
 }
+
+#ceny_dph p{
+	margin-top:15px;
+	color:#a91a14;
+	font-weight:bold;
+	font-size:17px;
+}
